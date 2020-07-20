@@ -1,0 +1,2 @@
+# buddy
+GitHub Pages
